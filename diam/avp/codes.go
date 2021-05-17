@@ -147,6 +147,7 @@ const (
 	ChargingRuleInstall                        = 1001
 	ChargingRuleName                           = 1005
 	ChargingRuleRemove                         = 1002
+	ChargingRuleReport                         = 1018
 	CheckBalanceResult                         = 422
 	Class                                      = 25
 	ClassIdentifier                            = 1214
@@ -163,6 +164,7 @@ const (
 	ContentProviderID                          = 2117
 	ContentSize                                = 1206
 	ContentType                                = 826
+	ContentVersion                             = 552
 	ContextIdentifier                          = 1423
 	CostInformation                            = 423
 	CostUnit                                   = 424
@@ -418,6 +420,7 @@ const (
 	OriginatorSCCPAddress                      = 2008
 	OutgoingSessionID                          = 2320
 	OutgoingTrunkGroupID                       = 853
+	PCCRuleStatus                              = 1019
 	PDNConnectionChargingID                    = 2050
 	PDNGWAllocationType                        = 1438
 	PDNType                                    = 1456
@@ -478,6 +481,7 @@ const (
 	QuotaHoldingTime                           = 871
 	RAI                                        = 909
 	RAND                                       = 1447
+	RANNASReleaseCause                         = 2819
 	RATFrequencySelectionPriorityID            = 1440
 	RATType                                    = 1032
 	RateElement                                = 2058
@@ -531,6 +535,7 @@ const (
 	RouteRecord                                = 282
 	RuleActivationTime                         = 1043
 	RuleDeactivationTime                       = 1044
+	RuleFailureCode                            = 1031
 	SDPAnswerTimestamp                         = 1275
 	SDPMediaComponent                          = 843
 	SDPMediaDescription                        = 845
